@@ -1,1 +1,5 @@
-{"foo": "bar"}
+//{"foo": "bar"}
+[
+  {"id": 1, "headLines": "My First News App", "body": "Today i published an app that will show case my skill set.", "picture": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "publishedDate": "01/08/2019"},
+  {"id": 1, "headLines": "Whaley Bridge dam collapse", "body": "Thousands of people are being evacuated from a town because part of a reservoir wall has collapsed in floods.", "picture": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78404940-e1564722948891.jpg?quality=90&strip=all&zoom=1&resize=644%2C440&ssl=1", "publishedDate": "03/08/2019"}
+]
